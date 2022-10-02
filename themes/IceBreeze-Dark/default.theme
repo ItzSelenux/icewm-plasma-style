@@ -59,7 +59,7 @@ ColorQuickSwitchActive="rgb:31/67/83"
 ColorQuickSwitchText="rgb:FF/FF/FF"
 ColorClock="rgb:2a/2d/32"
 ColorClockText="rgb:ff/ff/ff"
-SmallIconSize=32
+SmallIconSize=24
 #background parameters
 DesktopBackgroundCenter=0
 DesktopBackgroundScaled=1

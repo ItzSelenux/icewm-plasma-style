@@ -7,7 +7,7 @@ To Do     | Status     |
  IceBreeze Dark   | In Progress  |
 IceBreeze Light   | Not Started |
 rofi themes | Not Started |
-Tint2 theme | to upload |
+Tint2 theme | Finished |
 
 
 - places:
