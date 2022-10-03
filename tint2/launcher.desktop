@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+NoDisplay=true
+Icon=~/.config/tint2/folder-activities.svg
+Exec=rofi -show drun -location 7
+
+Name=Application Launcher
+
+Name[en_US]=launcher.desktop
