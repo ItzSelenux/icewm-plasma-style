@@ -4,7 +4,7 @@ ThemeAuthor="ItzSelenux"
 Look=flat
 RolloverButtonsSupported=1
 TitleBarHeight=26
-TitleBarJustify=50
+TitleBarJustify=1
 
 TitleButtonsLeft="s"
 TitleButtonsRight="xmi"
@@ -31,37 +31,49 @@ ColorMoveSizeStatus="rgb:2a/2d/32"
 ColorMoveSizeStatusText="rgb:FF/FF/FF"
 
 ColorInputSelection="rgb:31/67/83"
+ColorInputSelectionText="rgb:c6/c6/c6"
 #taskbar parameters
 ColorDefaultTaskBar="rgb:2a/2d/32"
 ColorNormalTaskBarApp="rgb:2a/2d/32"
-ColorNormalTaskBarAppText="rgb:ff/ff/ff"
+ColorNormalTaskBarAppText="rgb:2a/2d/32"
 ColorActiveTaskBarApp="rgb:31/67/83"
-ColorActiveTaskBarAppText="rgb:ff/ff/ff"
+ColorActiveTaskBarAppText="rgb:31/67/83"
 ColorMinimizedTaskBarApp="rgb:2a/2d/32"
-ColorMinimizedTaskBarAppText="rgb:b3/b3/b3"
+ColorMinimizedTaskBarAppText="rgb:2a/2d/32"
+ColorInvisibleTaskBarApp="rgb:1a/1a/1a"
 ColorInput="rgb:2a/2d/32"
 ColorInputText="rgb:c6/c6/c6"
 #listbox
-ColorListBox="rgb:CC/CC/CC"
-ColorListBoxText="rgb:00/00/00"
-ColorListBoxSelection="rgb:CC/CC/FF"
-ColorListBoxSelectionText="rgb:00/00/00"
+ColorListBox="rgb:2a/2d/32"
+ColorListBoxText="rgb:c6/c6/c6"
+ColorListBoxSelection="rgb:31/67/83"
+ColorListBoxSelectionText="rgb:c6/c6/c6"
+#Workspaces
+ColorActiveWorkspaceButton="rgb:31/67/83"
+ColorActiveWorkspaceButtonText="rgb:c6/c6/c6"
+
 #Dialog box
 ColorDialog="rgb:2a/2d/32"
+ColorNormalButtonText="rgb:ff/ff/ff"
+
+
 #Tooltip text
 ColorToolTip="rgb:2a/2d/32"
 ColorToolTipText="rgb:ff/ff/FF"
 #scrollbar
-ColorScrollBar="rgb:C0/C0/C0"
-ColorScrollBarSlider="rgb:C0/C0/C0"
-ColorScrollBarButtonArrow="rgb:C0/C0/C0"
+ColorScrollBar="rgb:2a/2d/32"
+ColorScrollBarSlider="rgb:26/26/26"
+ColorScrollBarButtonArrow="rgb:2a/2d/32"
 #Quick switch
 ColorQuickSwitch="rgb:2a/2d/32"
 ColorQuickSwitchActive="rgb:31/67/83"
 ColorQuickSwitchText="rgb:FF/FF/FF"
 ColorClock="rgb:2a/2d/32"
 ColorClockText="rgb:ff/ff/ff"
-SmallIconSize=24
+SmallIconSize=16
+ActiveTaskBarFontNameXft   =    "Snap:size=0,sans-serif:size=0:bold"
+NormalTaskBarFontNameXft   =    "Snap:size=0,sans-serif:size=0"
+TaskBarShowAllWindows=1
 #background parameters
 DesktopBackgroundCenter=0
 DesktopBackgroundScaled=1

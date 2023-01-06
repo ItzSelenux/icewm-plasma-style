@@ -1,0 +1,80 @@
+ThemeDescription="KDE Breeze based theme"
+
+ThemeAuthor="ItzSelenux"
+Look=flat
+RolloverButtonsSupported=1
+TitleBarHeight=26
+TitleBarJustify=1
+
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmi"
+
+BorderSizeX=4
+BorderSizeY=4
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalBorder="rgb:2a/2a/2a"
+ColorActiveBorder="rgb:2a/2a/2a"
+ColorActiveTitleBar="rgb:2a/2a/2a"
+ColorNormalTitleBar="rgb:2a/2a/2a"
+ColorNormalButton="rgb:2a/2a/2a"
+ColorNormalTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorNormalMenu="rgb:2a/2a/2a"
+ColorActiveMenuItem="rgb:47/4f/3f"
+ColorNormalMenuItemText="rgb:ff/ff/ff"
+ColorActiveMenuItemText="rgb:ff/ff/ff"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorMoveSizeStatus="rgb:2f/2f/2f"
+ColorMoveSizeStatusText="rgb:FF/FF/FF"
+
+ColorInputSelection="rgb:47/4f/3f"
+ColorInputSelectionText="rgb:c6/c6/c6"
+#taskbar parameters
+ColorDefaultTaskBar="rgb:2a/2a/2a"
+ColorNormalTaskBarApp="rgb:2a/2a/2a"
+ColorNormalTaskBarAppText="rgb:2a/2a/2a"
+ColorActiveTaskBarApp="rgb:47/4f/3f"
+ColorActiveTaskBarAppText="rgb:47/4f/3f"
+ColorMinimizedTaskBarApp="rgb:2a/2a/2a"
+ColorMinimizedTaskBarAppText="rgb:2a/2a/2a"
+ColorInvisibleTaskBarApp="rgb:1a/1a/1a"
+ColorInput="rgb:2a/2a/2a"
+ColorInputText="rgb:c6/c6/c6"
+#listbox
+ColorListBox="rgb:2a/2a/2a"
+ColorListBoxText="rgb:c6/c6/c6"
+ColorListBoxSelection="rgb:47/4f/3f"
+ColorListBoxSelectionText="rgb:c6/c6/c6"
+#Workspaces
+ColorActiveWorkspaceButton="rgb:47/4f/3f"
+ColorActiveWorkspaceButtonText="rgb:c6/c6/c6"
+
+#Dialog box
+ColorDialog="rgb:2a/2a/2a"
+ColorNormalButtonText="rgb:ff/ff/ff"
+
+
+#Tooltip text
+ColorToolTip="rgb:2a/2a/2a"
+ColorToolTipText="rgb:ff/ff/FF"
+#scrollbar
+ColorScrollBar="rgb:2a/2a/2a"
+ColorScrollBarSlider="rgb:26/26/26"
+ColorScrollBarButtonArrow="rgb:2a/2a/2a"
+#Quick switch
+ColorQuickSwitch="rgb:2a/2a/2a"
+ColorQuickSwitchActive="rgb:47/4f/3f"
+ColorQuickSwitchText="rgb:FF/FF/FF"
+ColorClock="rgb:2a/2a/2a"
+ColorClockText="rgb:ff/ff/ff"
+SmallIconSize=24
+ActiveTaskBarFontNameXft   =    "Snap:size=0,sans-serif:size=0:bold"
+NormalTaskBarFontNameXft   =    "Snap:size=0,sans-serif:size=0"
+TaskBarShowAllWindows=1
+#background parameters
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1
+DesktopBackgroundImage="1.png"
